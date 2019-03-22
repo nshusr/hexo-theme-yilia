@@ -3,6 +3,7 @@
 menu:
   主页: /
   闲聊: /tags/闲聊/
+  简历: /tags/简历/
   其他: /tags/其他/
 
 # SubNav
@@ -64,10 +65,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ""
 google_analytics: ""
-favicon: /favicon.png
+favicon: https://avatar.gitee.com/uploads/9/1362709_nshu.png!avatar128
 
 #你的头像url
-avatar: https://images.gitee.com/uploads/9/1362709_nshu.png?1542243169
+avatar: https://avatar.gitee.com/uploads/9/1362709_nshu.png!avatar128
 
 #是否开启分享
 share_jia: true
@@ -120,6 +121,6 @@ smart_menu:
 
 friends:
   我的Gitee: https://gitee.com/nshu
-  键道6: https://nshu.gitee.io/jdweb
+  键道6: https://xkinput.gitee.io
 
-aboutme: ······
+aboutme: 努力进步！
