@@ -3,7 +3,7 @@
 menu:
   主页: /
   闲聊: /tags/闲聊/
-  简历: /tags/简历/
+  简历: /resume
   其他: /tags/其他/
 
 # SubNav
@@ -28,7 +28,7 @@ rss: /atom.xml
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: /blog/
+root: /
 
 # Content
 
@@ -65,10 +65,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ""
 google_analytics: ""
-favicon: https://avatar.gitee.com/uploads/9/1362709_nshu.png!avatar128
+favicon: https://avatar.gitee.com/uploads/9/1362709_nshu.png!avatar150
 
 #你的头像url
-avatar: https://avatar.gitee.com/uploads/9/1362709_nshu.png!avatar128
+avatar: https://avatar.gitee.com/uploads/9/1362709_nshu.png!avatar150
 
 #是否开启分享
 share_jia: true
